@@ -1,0 +1,2 @@
+# Singleton
+Earth with singleton
